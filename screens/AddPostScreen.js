@@ -27,7 +27,7 @@ const AddPostScreen = () => {
         <InputField
           placeholder="Whats in your mind"
           multiline
-          numberOfLines={4}
+          numberOfLines={5}
         />
       </InputWrapper>
       <ActionButton buttonColor="rgba(231,76,60,1)">
