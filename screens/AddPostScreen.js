@@ -25,7 +25,7 @@ const AddPostScreen = () => {
     <View style={styles.container}>
       <InputWrapper>
         <InputField
-          placeholder="Whats in your mind"
+          placeholder="Whats in your mind?"
           multiline
           numberOfLines={5}
         />
